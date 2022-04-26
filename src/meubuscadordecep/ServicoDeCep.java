@@ -11,7 +11,7 @@ import com.google.gson.Gson;
 public class ServicoDeCep {
 
 	
-	static String webService = "http//viacep.com.br/ws/";
+	static String webService = "http://viacep.com.br/ws/";
 	static int codigoSucesso = 200;
 	
 	public static  Endereco buscaEnderecoPelo(String cep) throws Exception{

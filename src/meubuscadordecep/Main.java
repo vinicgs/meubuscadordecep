@@ -1,8 +1,6 @@
 package meubuscadordecep;
 
 import java.util.Scanner;
-import meubuscadordecep.ServicoDeCep;
-import meubuscadordecep.Endereco;
 
 
 public class Main {
